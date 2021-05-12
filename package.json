@@ -1,0 +1,28 @@
+{
+  "name": "react-native-handy-modal",
+  "version": "1.0.0",
+  "description": "React native handy modal.",
+  "main": "/lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErrorPro/react-native-handy-modal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErrorPro/react-native-handy-modal/issues"
+  },
+  "homepage": "https://github.com/ErrorPro/react-native-handy-modal#readme",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.5",
+    "@types/react-native": "^0.64.5",
+    "typescript": "^4.2.4"
+  }
+}
